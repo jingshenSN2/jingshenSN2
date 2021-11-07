@@ -1,4 +1,4 @@
-### Hi there 👋  <img align="right" alt="jingshenSN2's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jingshenSN2&show_icons=true&theme=tokyonight" />
+### Hi there 👋  <img align="right" alt="jingshenSN2's Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jingshenSN2&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--
 **jingshenSN2/jingshenSN2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
